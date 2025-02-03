@@ -11,4 +11,4 @@ This project is a full-stack application that scrapes content from a user-provid
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone http://github.com/ritikkumar64
